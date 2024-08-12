@@ -13,8 +13,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## :keyboard: Hard Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,css,html,nodejs,canva,figma&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,ts,css,html,nodejs,springboot&theme=dark)](https://skillicons.dev)
+[](https://skillicons.dev/icons?i=discord,figma,git,idea&theme=dark)](https://skillicons.dev)
 > Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
