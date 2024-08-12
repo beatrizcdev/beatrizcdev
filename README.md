@@ -12,6 +12,6 @@ Meu nome é Beatriz de Castro Medeiros, mas pode me chamar de Bia, sou estudante
 ## :keyboard: Hard Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=java,ts,css,html,nodejs,discord,figma,git,idea&theme=dark)](https://skillicons.dev)
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
+> soft skills: Gerenciamento de tempo, trabalho em equipe, design thinkin e adaptabilidade.
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcdev&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
