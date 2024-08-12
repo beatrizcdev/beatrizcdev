@@ -14,4 +14,4 @@ Meu nome é Beatriz de Castro Medeiros, mas pode me chamar de Bia, sou estudante
 [![My Skills](https://skillicons.dev/icons?i=java,ts,css,html,nodejs,discord,figma,git,idea&theme=dark)](https://skillicons.dev)
 > soft skills: Gerenciamento de tempo, trabalho em equipe, design thinking e adaptabilidade.
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcdev&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcdev&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)](https://github.com/beatrizcdev)
