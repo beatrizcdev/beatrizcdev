@@ -1,6 +1,6 @@
 # Olá Pessoal! :vulcan_salute:
 
-Meu nome é Beatriz de Castro Medeiros, mas pode me chamar de Bia, sou estudante de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital na Cidade do Recife e faço curso de dev full stack na Cubos Academy. Sou formada em edificações pelo IFPE e atualmente estou tentando mudar de área.
+Meu nome é Beatriz de Castro Medeiros, mas pode me chamar de Bia, sou estudante de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital na Cidade do Recife e faço curso de dev full stack na Cubos Academy. Sou formada em edificações pelo IFPE e atualmente estou em processo de migração de área.
 
 ## :point_right: Para me encontrar:
 
